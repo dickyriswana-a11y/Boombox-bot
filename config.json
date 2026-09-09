@@ -1,0 +1,7 @@
+{
+  "token": "TOKEN-BOT",
+  "clientId": "APLICATION_ID",
+  "developerIds": [
+    "USER_OWNER_ID"
+  ]
+}
